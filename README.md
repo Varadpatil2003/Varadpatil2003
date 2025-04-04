@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Springboot**
 
-- 👨‍💻 All of my projects are available at [hƩps://sensaƟonal-nasturƟum-04d074.netlify.app/](hƩps://sensaƟonal-nasturƟum-04d074.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sensational-nasturtium-04d074.netlify.app/](https://sensational-nasturtium-04d074.netlify.app/)
 
 - 💬 Ask me about **SQL, JAVA**
 
